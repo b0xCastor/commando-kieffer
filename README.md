@@ -4,7 +4,7 @@
 Le commando Kieffer - Débarquement du 6 juin 1944 
 
 
-// le débarquement de normandie : présentation générale
+<h1>// le débarquement de normandie : présentation générale</h1>
 
 1) La date du débarquement de Normandie est le 6 juin 1944.
 
@@ -17,7 +17,7 @@ Le commando Kieffer - Débarquement du 6 juin 1944
 <br>
 <hr>
 
-// le commando kieffer
+<h1>// le commando kieffer</h1>
 
 1) Le commando Kieffer était un groupe de commandos français, formé et dirigé par le lieutenant de vaisseau Philippe Kieffer. Ce commando faisait partie des Forces françaises libres et a joué un rôle crucial lors du débarquement de Normandie.
 
@@ -48,7 +48,7 @@ Le commando Kieffer - Débarquement du 6 juin 1944
 <br>
 <hr>
 
-// Le role  du commando kieffer lors des débarquements
+<h1>// Le role  du commando kieffer lors des débarquements</h1>
 
 11) Le commando Kieffer a débarqué sur Sword Beach lors du D-Day. Ils ont participé à la libération de plusieurs villes en Normandie entre juin et août 1944, dont Ouistreham.
 
