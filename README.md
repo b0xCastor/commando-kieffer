@@ -7,7 +7,7 @@ Le commando Kieffer - Débarquement du 6 juin 1944
 
 2) Environ 250 milles soldats alliés ont participé au débarquement de Normandie. Parmi eux, il y avait 73 000 Britanniques, 59 000 Américains, 21 400 Canadiens, et d'autres soldats provenant de 15 nations et régions différentes, y compris la France.
 
-3) Les alliés ont débarqué sur le sol français principalement par la mer, utilisant un grand nombre de navires et de barges de débarquement. Les hommes ont entre 16 et 32 ans.
+3) Les alliés ont débarqué sur le sol français principalement par la mer, utilisant un grand nombre de navires et de barges de débarquement.
 
 4) Les cinq plages sur lesquelles les alliés ont débarqué sont Utah Beach, Omaha Beach, Gold Beach, Juno Beach et Sword Beach.
 
@@ -18,7 +18,7 @@ Le commando Kieffer - Débarquement du 6 juin 1944
 
 2) Le commando Kieffer a été créé avec l'objectif de participer à la libération de la France, notamment en rejoignant les opérations alliées pour le débarquement de Normandie. La formation de ce groupe a commencé en 1942.
 
-3) Les soldats du commando Kieffer provenaient principalement de la France libre, mais comprenaient également des volontaires d'autres nationalités. Leurs âges variaient considérablement, reflétant une diversité de parcours et d'expériences.
+3) Les soldats du commando Kieffer provenaient principalement de la France libre, mais comprenaient également des volontaires d'autres nationalités. Leurs âges variaient considérablement, les hommes ont entre 16 et 32 ans., reflétant une diversité de parcours et d'expériences.
 
 <br>
 <hr>
