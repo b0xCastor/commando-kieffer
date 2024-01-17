@@ -3,6 +3,9 @@
 
 Le commando Kieffer - Débarquement du 6 juin 1944 
 
+
+// le débarquement de normandie : présentation générale
+
 1) La date du débarquement de Normandie est le 6 juin 1944.
 
 2) Environ 250 milles soldats alliés ont participé au débarquement de Normandie. Parmi eux, il y avait 73 000 Britanniques, 59 000 Américains, 21 400 Canadiens, et d'autres soldats provenant de 15 nations et régions différentes, y compris la France.
@@ -13,6 +16,8 @@ Le commando Kieffer - Débarquement du 6 juin 1944
 
 <br>
 <hr>
+
+// le commando kieffer
 
 1) Le commando Kieffer était un groupe de commandos français, formé et dirigé par le lieutenant de vaisseau Philippe Kieffer. Ce commando faisait partie des Forces françaises libres et a joué un rôle crucial lors du débarquement de Normandie.
 
@@ -42,6 +47,8 @@ Le commando Kieffer - Débarquement du 6 juin 1944
 
 <br>
 <hr>
+
+// Le role  du commando kieffer lors des débarquements
 
 11) Le commando Kieffer a débarqué sur Sword Beach lors du D-Day. Ils ont participé à la libération de plusieurs villes en Normandie entre juin et août 1944, dont Ouistreham.
 
