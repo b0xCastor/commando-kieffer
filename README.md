@@ -23,9 +23,9 @@ Le commando Kieffer - Débarquement du 6 juin 1944
 <br>
 <hr>
 
-4) Le commando Kieffer s'est entraîné au Royaume-Uni, où il a subi un entraînement intensif en vue de la préparation pour le débarquement de Normandie.
+4) La troupe s'entraine au camps d'Achnacarry.
    
-5) L'entraînement du commando Kieffer comprenait des exercices physiques rigoureux, des tactiques de combat, des opérations amphibies, et des techniques de commando spéciales, leur préparation étant adaptée aux opérations de débarquement et de combat en territoire ennemi.
+5) L'entraînement comprenait des exercices physiques rigoureux, des tactiques de combat, des opérations amphibies, et des techniques de commando spéciales, leur préparation étant adaptée aux opérations de débarquement et de combat en territoire ennemi.
 
    <br>
    <hr>
