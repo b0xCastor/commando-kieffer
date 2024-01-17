@@ -5,7 +5,7 @@ Le commando Kieffer - Débarquement du 6 juin 1944
 
 1) La date du débarquement de Normandie est le 6 juin 1944.
 
-2) Environ 156 115 soldats alliés ont participé au débarquement de Normandie. Parmi eux, il y avait 73 000 Britanniques, 59 000 Américains, 21 400 Canadiens, et d'autres soldats provenant de 15 nations et régions différentes, y compris la France.
+2) Environ 250 milles soldats alliés ont participé au débarquement de Normandie. Parmi eux, il y avait 73 000 Britanniques, 59 000 Américains, 21 400 Canadiens, et d'autres soldats provenant de 15 nations et régions différentes, y compris la France.
 
 3) Les alliés ont débarqué sur le sol français principalement par la mer, utilisant un grand nombre de navires et de barges de débarquement. Ils ont également été soutenus par des parachutistes, avec environ 23 000 hommes arrivant par voie aérienne.
 
